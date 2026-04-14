@@ -1,0 +1,9 @@
+#!/bin/bash
+export SXM_USERNAME=sirius_user
+export SXM_PASSWORD='SiriusXM-PassWd123'
+
+pick="$(sxm --list-channels | fzf)"
+
+if [[ -n "${pick}" ]]; then
+	printf "http://localhost:8080/%s.m3u8\n" "$(awk '{print $1}' <<<"${pick}")"
+fi

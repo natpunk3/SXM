@@ -1,0 +1,6 @@
+#!/bin/bash
+export SXM_USERNAME=sirius_user
+export SXM_PASSWORD='SiriusXM-PassWd123'
+export SXM_PORT=8080
+
+sxm -v
