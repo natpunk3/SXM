@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, Sirius XM Channel 38 | Ozzy's Boneyard
+#EXTALBUMARTURL:file:///home/natpunk/bin/sxm/favorites/imgs/Ozzy.png
+http://localhost:8080/buzzsaw.m3u8

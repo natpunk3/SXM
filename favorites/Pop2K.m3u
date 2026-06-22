@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, Sirius XM Channel 10 | Pop2K!
+#EXTALBUMARTURL:file:///home/natpunk/bin/sxm/favorites/imgs/Pop2K.png
+http://localhost:8080/8208.m3u8

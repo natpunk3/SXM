@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, Sirius XM Channel 31 | Tom Petty Radio
+#EXTALBUMARTURL:file:///home/natpunk/bin/sxm/favorites/imgs/Tom-Petty.png
+http://localhost:8080/9407.m3u8

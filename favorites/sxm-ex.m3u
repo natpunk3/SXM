@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, Sirius XM Channel
+#EXTALBUMARTURL:file:///home/natpunk/bin/sxm/sxm.png
+http://localhost:8080/siriushits1.m3u8

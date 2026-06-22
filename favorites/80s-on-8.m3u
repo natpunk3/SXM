@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1, Sirius XM Channel 8 | 80's On 8
+#EXTALBUMARTURL:file:///home/natpunk/bin/sxm/favorites/imgs/80s-on-8.png
+http://localhost:8080/big80s.m3u8
